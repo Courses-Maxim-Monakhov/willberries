@@ -15,3 +15,6 @@ Home page of the site 'WildBerries'. Done in GloAcademy workshop.
  ### Библиотеки:
   - Bootstrap v5
   - Swiper Slider JS
+  
+  ### Подходы:
+  - Адаптивность
